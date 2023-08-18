@@ -20,7 +20,7 @@ Jarvis is a Python-based virtual assistant inspired by the futuristic AI compani
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/your_repo.git`
+1. Clone the repository: `git clone https://github.com/Misbahkk/Jarvis-Virtual-Desktop-Assistant.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up your API keys in the `config.py` file.
 4.  **API Keys Setup:**
